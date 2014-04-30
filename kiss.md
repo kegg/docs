@@ -51,7 +51,7 @@ Make your code self documenting. Don't flood it with unneccessary comments. If y
 
 ## Documentation
 
-Provide adequate documenation. Don't write novels with your documentation. But write what is needed to get someone started. You know how projects have a two minute get started guide? Yep do that. If it's a <code>Java</code> project, have `Javadocs` available for it. You don't want to have your users in the dark about what your project does.
+Provide adequate documenation. Don't write novels with your documentation. But write what is needed to get someone started. You know how projects have a two minute get started guide? Yep do that. If it's a `Java` project, have `Javadocs` available for it. You don't want to have your users in the dark about what your project does.
 
 ## Write Tutorials Smart
 
