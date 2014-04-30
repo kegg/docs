@@ -32,11 +32,11 @@ It's not your fault that you were stupid enough to ask such a question in the fi
 
 The key takeaway point of this page is to learn what not to ask. Once you can tackle that part down you'll be good to go. If you don't understand what that even means? Well don't worry we'll get there.
 
-Over the years I've spent countless hours on websites geared in a Q&amp;A approach to a community. Person A asks a question that is answered by persons B and C and so forth. I've learned a few things from reading peoples comments and have decided to write down what I've learned so that you, dear reader, will know what <em>not</em> to do.
+Over the years I've spent countless hours on websites geared in a Q&A approach to a community. Person A asks a question that is answered by persons B and C and so forth. I've learned a few things from reading peoples comments and have decided to write down what I've learned so that you, dear reader, will know what *not* to do.
 
 ## Tools
 
-You have tools around you. <em>Use Them</em>. I can't stress this enough. Before you even think about asking a question do the following:
+You have tools around you. *Use Them*. I can't stress this enough. Before you even think about asking a question do the following:
 
 ### Search the forum you're about to ask the question on
 
@@ -48,7 +48,7 @@ Yes, use <a href="https://www.google.com/" target="_blank">Google</a>. You know 
 
 ### RTFM
 
-You know what RTFM stands for right? Well it stands for <em>Read The Fucking Manual</em>. Oh that offended you? I'm sorry. Well you should follow its advice. It's more than advice though really. You should really read the manual. You have a question about the programming language you're learning? You have a book right? If you don't have a book how are you learning the language to begin with? Go read that manual. Search through it. You'll find the answer. If not? Steps one and two above should be very useful. Guess what! There's a reason you have a manual. So you can <em>read</em> it!
+You know what RTFM stands for right? Well it stands for *Read The Fucking Manual*. Oh that offended you? I'm sorry. Well you should follow its advice. It's more than advice though really. You should really read the manual. You have a question about the programming language you're learning? You have a book right? If you don't have a book how are you learning the language to begin with? Go read that manual. Search through it. You'll find the answer. If not? Steps one and two above should be very useful. Guess what! There's a reason you have a manual. So you can *read* it!
 
 Please refer back to your manuals on a regular basis. They tend to get lonely after not ever being read. Don't think you're smarter than the book. You aren't there yet. *Trust me on this*.
 
@@ -62,7 +62,7 @@ Yep use manners. Be nice to people when you're asking a question. What appears t
 
 ### People might not respond
 
-People have lives. They might not have the time to even answer your question. The place you're asking for it is <em>free advice</em>. You're not paying them for their knowledge. It's all volunteer hours. Not everyone will respond to your question. They could be busy, or they could be asleep. Heck they just might not know the answer off the top of their head at the moment.
+People have lives. They might not have the time to even answer your question. The place you're asking for it is *free advice*. You're not paying them for their knowledge. It's all volunteer hours. Not everyone will respond to your question. They could be busy, or they could be asleep. Heck they just might not know the answer off the top of their head at the moment.
 
 If someone doesn't respond right away to your question. Or if they don't respond at all. Don't get bent out of shape. People don't have any reason to answer your question. If they don't want to answer they aren't required to.
 
@@ -80,7 +80,7 @@ Homework is called that for a reason. It's there for you to learn. If you expect
 
 ### Show that you tried
 
-If you're asking a question regarding a programming question you're attempting to tackle at least show the source code for the problem you're having. This falls under the idea of <em>don't make someone else write code for you</em>. You're programming something, that's great. You're stuck somewhere. that's fine too. Show where you're stuck and go from there.
+If you're asking a question regarding a programming question you're attempting to tackle at least show the source code for the problem you're having. This falls under the idea of *don't make someone else write code for you*. You're programming something, that's great. You're stuck somewhere. that's fine too. Show where you're stuck and go from there.
 
 ### Show relevant code
 
