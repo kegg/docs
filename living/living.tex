@@ -1,6 +1,19 @@
-\documentclass{article}
+\documentclass{book}
 
+\usepackage[backend=biber]{biblatex}
+\bibliography{uni.bib}
 \usepackage{csquotes}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{Kyle Eggleston}
+\fancyhead[RE,LO]{Living :: A Journey}
+\fancyfoot[CE,CO]{\leftmark}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
 
 \title{%
   Living \\
@@ -8,10 +21,11 @@
 \author{Kyle Eggleston}
 \date{Jun 3, 2018 - Dec 31, 2018}
 
-\usepackage{multicol}
-
 \begin{document}
 \maketitle
+\thispagestyle{empty}
+
+\frontmatter
 
 \section*{Introduction}
 
@@ -41,11 +55,33 @@ are all different in our own ways. Should that alone not be celebrated?
 Diversity in numbers and types of people? Different cultures and backgrounds? We
 can each learn something from one another.
 
+\mainmatter
+
+\chapter{Journal Entries}
 \input{2018/20180603.tex}
 \input{2018/20180604.tex}
 \input{2018/20180605.tex}
 \input{2018/20180606.tex}
 \input{2018/20180607.tex}
 \input{2018/20180608.tex}
+
+\chapter{Religion Articles}
+\input{articles/indoctrination.tex}
+\input{articles/change.tex}
+\input{articles/race.tex}
+\input{articles/god.tex}
+\input{articles/planet.tex}
+\input{articles/prayers.tex}
+\input{articles/truth.tex}
+\input{articles/revelation.tex}
+
+\appendix
+\input{articles/appendix-a.tex}
+\input{articles/appendix-b.tex}
+\input{articles/appendix-c.tex}
+
+\backmatter
+\printbibliography
+\thispagestyle{empty}
 
 \end{document}

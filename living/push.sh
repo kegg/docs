@@ -16,6 +16,24 @@ if [ -f *.toc ] ; then
   rm *.toc;
 fi
 
+if [ -f *.bbl ] ; then
+  rm *.bbl;
+fi
+
+if [ -f *.blg ] ; then
+  rm *.blg;
+fi
+
+if [ -f *.bcf ] ; then
+  rm *.bcf;
+fi
+
+if [ -f *.xml ] ; then
+  rm *.xml;
+fi
+
+pdflatex living.tex
+biber living
 pdflatex living.tex
 
 xdg-open living.pdf
