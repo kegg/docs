@@ -9,6 +9,7 @@
 \usepackage{listings}
 \usepackage{color}
 \usepackage{epigraph}
+\usepackage{verse}
  
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
@@ -44,6 +45,8 @@
 \fancyfoot[LE,RO]{\thepage}
 \renewcommand{\headrulewidth}{2pt}
 \renewcommand{\footrulewidth}{1pt}
+\newcommand{\attrib}[1]{%
+\nopagebreak{\raggedleft\footnotesize #1\par}}
 
 \title{%
   Living \\
@@ -90,6 +93,11 @@ summons, Monarchs must obey}{\textit{Mac Flecknoe \\ John Dryden}}
 \input{articles/truth.tex}
 \input{articles/revelation.tex}
 \input{articles/temple.tex}
+
+\chapter{Poetry}
+\epigraph{All the world’s a stage, And all the men and women merely players;}
+{\textit{As You Like It \\ William Shakespeare}}
+\input{poetry/poem-the-first.tex}
 
 \newpage
 
