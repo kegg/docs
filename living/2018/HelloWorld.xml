@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<project name="HelloWorld" basedir="." default="main">
+
+  <target name="main">
+    <echo>Hello World!</echo>
+  </target>
+  
+</project>
