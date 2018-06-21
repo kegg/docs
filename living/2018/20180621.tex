@@ -6,3 +6,15 @@ thing that would happen... right? Right. At least I don't think that would
 happen. It's life though, and life means that we come and go as we do and see
 all there is to see..waiting for a better day to arrive. I think? Something like
 that.
+
+\lstinputlisting[language=Ant]{2018/HelloWorld2.xml}
+
+Sometimes there are limitations in life. The above script won't compile in ant
+without a later version...found that out the hard way. That's why life changes.
+It changes accomodate new features, yet it also changes to mess with those
+features at times.\footnote{
+Specifically, it won't compile under JDK1.8 if you're running ANT 1.8.4. You
+have to upgrade your ant version, or specify an executable attribute on the
+javac task. For example, specifying a JDK1.7 on the javac task, it will run
+without problem. To fix this would easily be to update ANT to 1.9.3.
+}
