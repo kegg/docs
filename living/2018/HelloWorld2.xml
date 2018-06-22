@@ -12,10 +12,8 @@
   <target name="compile">
     <mkdir dir="${build.dir}/classes"/>
     <javac
-      fork="yes" 
       srcdir="${src.dir}" 
       destdir="${build.dir}/classes"
-      compiler="javac1.7"/>
   </target>
 
   <target name="jar">

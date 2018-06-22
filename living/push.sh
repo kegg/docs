@@ -8,6 +8,10 @@ if [ -f *.log ] ; then
   rm *.log
 fi
 
+if [ -f *.lof ] ; then
+  rm *.lof
+fi
+
 if [ -f *.pdf ] ; then
   rm *.pdf
 fi
