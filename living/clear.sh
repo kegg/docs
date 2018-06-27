@@ -36,3 +36,4 @@ if [ -f *.xml ] ; then
   rm *.xml;
 fi
 
+find . -type f -name '*.class' -delete

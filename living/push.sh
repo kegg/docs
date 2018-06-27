@@ -42,3 +42,4 @@ pdflatex living.tex
 
 xdg-open living.pdf
 
+find . -type f -name '*.class' -delete
