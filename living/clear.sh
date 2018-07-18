@@ -36,4 +36,8 @@ if [ -f *.xml ] ; then
   rm *.xml;
 fi
 
+if [ -f *.lot ] ; then
+  rm *.lot;
+fi
+
 find . -type f -name '*.class' -delete
