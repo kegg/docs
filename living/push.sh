@@ -44,6 +44,11 @@ pdflatex living.tex
 biber living
 pdflatex living.tex
 
+pdflatex religion.tex
+biber religion
+pdflatex religion.tex
+
 xdg-open living.pdf
+xdg-open religion.pdf
 
 find . -type f -name '*.class' -delete
