@@ -1,0 +1,18 @@
+\section{Thu, Sep 6, 2018}
+
+Found an interesting thing today. Not sure if I've ever figured this one out or not
+before?
+
+The below will not compile.
+
+\lstinputlisting[language=Java]{2018/TestCase.java}
+
+It throws the following error:
+
+\begin{displayquote}
+TestCase.java:14: error: variable found is already defined in method main(String[])
+        boolean found = true;
+\end{displayquote}
+
+So variables within case statements carry onward thorugh the switch. Interesting
+indeed.
