@@ -5,7 +5,7 @@ public class HowAboutNo {
       System.err.println("You need to specify a NUMBER");
       System.exit(1);
     } else if (args.length > 1) {
-      System.err.print("You speciifed more than"); 
+      System.err.print("You specified more than"); 
       System.err.print(" ONE argument. Only ONE");
       System.err.println(" argument is allowed.");
       System.exit(1);
