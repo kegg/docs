@@ -57,6 +57,4 @@ Provide adequate documenation. Don't write novels with your documentation. But w
 
 If you're going to write a website that contains tutorials. Um, keep them simple and easy to follow. Also keep with the actual current standards. I should say that again. Keep with the current standards.
 
-If you're going to write a website that contains tutorials. Um, keep them simple and easy to follow. Also keep with the actual current standards. I should say that again. Keep with the current standards.
-
 An example of this. Years ago, it was typical to have your HTML markup in uppercase. That isn't the case anymore (no pun intended... or was there?). No realy though. Do not put your HTML in upper case. Don't! It's bad. You will be looked down upon so bad. So very very bad. Keep current with whatever language you're running with and be good at it. Seriously do it. You can deprecate things, that's just fine. Most languages have a way to do that. Use it!
