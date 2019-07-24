@@ -5,3 +5,10 @@ was exactly, just that it existed. It would be nice if there was something out
 there that actually made sense today. But nothing make sense. Here we are 
 sitting and waiting for something to actually come along and have some kind of 
 condition to make sense. Here we are and it just doesn't jive.
+
+There I sat, at the edge of the tub. Thinking about how life had turned upside 
+down in an instant. Could I have prevented any of it? I'm not sure. I simply 
+don't know if I could have prevented it at all. I just know what life is for me 
+at this present moment in time.
+
+The tub jets seemed to quiet my mind a bit. That was helpful.
