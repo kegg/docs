@@ -6,3 +6,5 @@ trouble!"
 Captain Thomas nodded. "I know Commander. Now get us the hell out of here!"
 
 "Aye!"
+
+The ship moved at great speed.
